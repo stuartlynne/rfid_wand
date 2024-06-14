@@ -22,7 +22,7 @@ E.g. [Impinj Mini-Guardrail](https://www.atlasrfidstore.com/impinj-mini-guardrai
 
 ## Parts
 
-<HTML><img src="/imgs/parts-overview.jpg" width=200 height=200></HTML>
+<img src="/imgs/parts-overview.jpg" width=200 height=200>
 
 - 5dBi PCB UHF RFID 902-928M Antenna 5cm*5cm with SMA
 - 3m cable with RP-TNC Male and SMA
@@ -45,7 +45,7 @@ E.g. [Impinj Mini-Guardrail](https://www.atlasrfidstore.com/impinj-mini-guardrai
 
 | Step 1 | Step 3 |
 | -- | -- |
-|<img src=./imgs/mount1.jpg width=200 height=200>|<img src=./imgs/mount2.jpg width=200 height=200>|
+|<img src="./imgs/mount1.jpg" width=200 height=200>|<img src="./imgs/mount2.jpg" width=200 height=200>|
 
 
 5. Cut the shrink wrap to length and insert assembly into the shrink wrap
@@ -53,7 +53,7 @@ E.g. [Impinj Mini-Guardrail](https://www.atlasrfidstore.com/impinj-mini-guardrai
 
 | Step 5 | Step 6 |
 | -- | -- |
-|<img src=./imgs/shrink1.jpg width=200 height=200>|<img src=./imgs/shrink2.jpg width=200 height=200>|
+|<img src="./imgs/shrink1.jpg" width=200 height=200>|<img src="./imgs/shrink2.jpg" width=200 height=200>|
 
 
 
@@ -82,8 +82,8 @@ Scanning with the want should be done with the tag on the antenna side.
 
 | | |
 | -- | -- |
-| <img src=./imgs/case1.jpg width=200 height=200>|<img src=./imgs/case2.jpg width=200 height=200>|
-| <img src=./imgs/use1.jpg  width=200 height=200> |
+| <img src="./imgs/case1.jpg" width=200 height=200>|<img src="./imgs/case2.jpg" width=200 height=200>|
+| <img src="./imgs/use1.jpg"  width=200 height=200> |
 
 
 ## 5dBi PCB UHF RFID 902-928M Antenna 5cm*5cm with SMA 
