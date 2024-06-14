@@ -16,7 +16,7 @@ E.g. [Impinj Mini-Guardrail] (https://www.atlasrfidstore.com/impinj-mini-guardra
 
 ## Parts
 
-<img src=imgs/parts-overview.jpg width=200 height=200>
+<img src=./imgs/parts-overview.jpg width=200 height=200>
 
 - 5dBi PCB UHF RFID 902-928M Antenna 5cm*5cm with SMA
 - 3m cable with RP-TNC Male and SMA
@@ -39,7 +39,7 @@ E.g. [Impinj Mini-Guardrail] (https://www.atlasrfidstore.com/impinj-mini-guardra
 
 | Step 1 | Step 3 |
 | -- | -- |
-|<img src=imgs/mount1.jpg width=200 height=200>|<img src=imgs/mount2.jpg width=200 height=200>|
+|<img src=./imgs/mount1.jpg width=200 height=200>|<img src=./imgs/mount2.jpg width=200 height=200>|
 
 
 5. Cut the shrink wrap to length and insert assembly into the shrink wrap
@@ -47,7 +47,7 @@ E.g. [Impinj Mini-Guardrail] (https://www.atlasrfidstore.com/impinj-mini-guardra
 
 | Step 5 | Step 6 |
 | -- | -- |
-|<img src=imgs/shrink1.jpg width=200 height=200>|<img src=imgs/shrink2.jpg width=200 height=200>|
+|<img src=./imgs/shrink1.jpg width=200 height=200>|<img src=./imgs/shrink2.jpg width=200 height=200>|
 
 
 
@@ -76,15 +76,15 @@ Scanning with the want should be done with the tag on the antenna side.
 
 | | |
 | -- | -- |
-| <img src=imgs/case1.jpg width=200 height=200>|<img src=imgs/case2.jpg width=200 height=200>|
-| <img src=imgs/use1.jpg  width=200 height=200> |
+| <img src=./imgs/case1.jpg width=200 height=200>|<img src=./imgs/case2.jpg width=200 height=200>|
+| <img src=./imgs/use1.jpg  width=200 height=200> |
 
 
 ## 5dBi PCB UHF RFID 902-928M Antenna 5cm*5cm with SMA 
 
 Example source: [AliExpress](https://www.aliexpress.com/item/4001021595653.html)
 
-Cost of the antenna is about USD 5.00 plus shipping. If you are buying at least ten, various vendors will
+The cost of the antenna is about USD 5.00 plus shipping. If you are buying at least ten, various vendors will
 offer to customize them with the extension cable and connector of your choice for a lower overall cost.
 
 ## RFID Cable
