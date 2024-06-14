@@ -5,14 +5,20 @@ This describes how to build low-cost RFID Wands for to read and write UHF RFID t
 
 Using these with (for example) and Impinj R420 reader, you can read and write UHF RFID tags from four stations at once.
 
-The original use of these was with [RaceDB](https://github.com/esitarski/RaceDB) to read and write tags for cycling races.
+The original use of this design was for [RaceDB](https://github.com/esitarski/RaceDB) to read and write tags for cycling races.
 
-*The estimated cost of the wand is about USD 25.*
+They should be useful for any application using an RFID reader that can control *transmit power* and *receiver sensitivity*.
 
-This contrasts with the cost of commercial Near Field RFID antennas which can be USD 200-350 each.
+*The estimated cost of a wand is about USD 25.* This will depend on how many you are making.
 
-E.g. [Impinj Mini-Guardrail] (https://www.atlasrfidstore.com/impinj-mini-guardrail-ilt-lp-indoor-rfid-antenna-global/)
+This contrasts with the cost of commercial Near Field RFID antennas which are in the price range USD 200-350 each.
 
+E.g. [Impinj Mini-Guardrail](https://www.atlasrfidstore.com/impinj-mini-guardrail-ilt-lp-indoor-rfid-antenna-global/)
+
+
+## Parts
+
+![test](/imgs/parts-overview.jpg)
 
 ## Parts
 
