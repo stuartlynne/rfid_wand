@@ -104,10 +104,15 @@ We use Impinj R1000 and R420 readers.  These are available on eBay for about $20
 
 The R1000 readers are (almost) indestructible and we have some that have been in use for over 10 years.
 
+From the Impinj website: [Connector Types from Impinj](https://support.impinj.com/hc/en-us/articles/202756398-RF-Connector-Types)
 
-## Links
+> Speedway Revolution RFID reader- RP-TNC Female (requires RP-TNC Male connector on cable).
+> The 'RP' stands for 'Reverse Polarity', note that the RP-TNC female actually has a center pin.
+> RP-TNC is also sometimes referred to as simply R-TNC. 
 
-[Connector Types from Impinj](https://support.impinj.com/hc/en-us/articles/202756398-RF-Connector-Types)
+
+
+
 
 ## [Related Projects](related.md)
 
