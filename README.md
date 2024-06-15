@@ -18,10 +18,6 @@ E.g. [Impinj Mini-Guardrail](https://www.atlasrfidstore.com/impinj-mini-guardrai
 
 ## Parts
 
-![test](/imgs/parts-overview.jpg)
-
-## Parts
-
 <img src="/imgs/parts-overview.jpg" width=200 height=200>
 
 - 5dBi PCB UHF RFID 902-928M Antenna 5cm*5cm with SMA
